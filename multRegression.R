@@ -26,7 +26,7 @@ c <- as.matrix(Chinook_Adults_1994_2016)
 c <- t(c)
 
 #ALL FRY RELEASED FROM 1996-2018
-d <- as.matrix(Chinook_Fry_1996_2018)
+d <- as.matrix(Chinook_Smolt_1996_2018)
 d <- t(d)
 
 #NON-NEGATIVE LEAST SQUARES 3&4 and 5&6
