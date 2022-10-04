@@ -9,5 +9,5 @@ Chinook_Fry_1996-2018 is an excel file with the amount of fry released each year
 
 There is a powerpoint presentation available to view that outlines the framework of our research, as well as includes additional graphs that demonstrate the key conclusions of our analysis.
 
-#Abstract for Research
+# Abstract for Research
 Declines in salmon sizes have been reported primarily as a result of younger maturation rates. This change in age distribution poses serious threats to salmon-dependent peoples and ecological systems. We perform a statistical analysis to examine the change in age structure of spawning Alaskan chum and Chinook salmon using 30 years of hatchery data. To highlight the impacts of this change, we investigate the average number of fry/smolt that each age of spawning chum/Chinook salmon produce. Our findings demonstrate an increase in younger hatchery salmon populations returning to spawn, and fewer amounts of fry produced by younger salmon compared to older salmon. These results suggest the potential risks associated with younger spawning salmon and aim to help better understand salmon behavior in order to sustain and protect healthy salmon populations.
