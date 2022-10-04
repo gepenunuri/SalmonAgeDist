@@ -6,6 +6,8 @@ Chum_Fry_1988-2018 is an excel file with the amount of fry released each year fr
 
 Chinook_Smolt_1996-2018 is an excel file with the amount of smolt released each year from 1996-2018. Chinook_Adults_1994-2016 is the reorganization of the returing fish by year sepereted in to two age classes,2-5 and 6&7. Using these two excel files in the Regression model produces data showing the average number of fry produced by each age class.
 
+The excel files Chum_Revisions and Chinook_Revisions contain all the data we used through out our research. They include proportion graphs we computed and analyzed. These files compile the data into neat booklets to showcase the data. 
+
 
 There is a powerpoint presentation available to view that outlines the framework of our research, as well as includes additional graphs that demonstrate the key conclusions of our analysis.
 
